@@ -1,6 +1,5 @@
 ***
 # __Alexander Makarenko__
-
 ### My contact info
 * **Location:** Russia, Tyumen Phone: +7 912 993 2188
 * **E-mail:** alexandr.makarenko@yahoo.com 
@@ -9,7 +8,7 @@
 * **Codewars:** amakarich
 
 ### About Me
-Worked in an Internet company as a system administrator / network engineer until today. Helped in the design of the [website](adrenalin72.pro "site") for a small company in 2019, after which the company got new clients. I like to follow information technologies, learn something new for myself and especially like to apply the acquired knowledge in practice. To learn new things and absorb even more new useful information, that’s my goal. 
+Worked in an Internet company as a system administrator / network engineer until today. Helped in the design of the website *adrenalin72.pro* for a small company in 2019, after which the company got new clients. I like to follow information technologies, learn something new for myself and especially like to apply the acquired knowledge in practice. To learn new things and absorb even more new useful information, that’s my goal. 
 
 ***
 
@@ -33,9 +32,11 @@ function multiply(a, b){
 RS Schools Course - «JavaScript/Front-end. Stage 1» (in process)
 
 ### Education
-Tyumen State Oil and Gas University Automated information processing and control systems
-Certificate Programming for the Web training
+* Tyumen State Oil and Gas University 
+    *Automated information processing and control systems*
+* Certificate Programming for the Web 
+    *Training*
 
 ### Languages
-Russian - native
-English - B1 ( *learning with duolingo, online resources* )
+* Russian - native
+* English - B1 ( *learning with duolingo, online resources* )
