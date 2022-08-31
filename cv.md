@@ -8,7 +8,7 @@
 * **Codewars:** amakarich
 
 ### About Me
-Worked in an Internet company as a system administrator / network engineer until today. Helped in the design of the website *adrenalin72.pro* for a small company in 2019, after which the company got new clients. I like to follow information technologies, learn something new for myself and especially like to apply the acquired knowledge in practice. To learn new things and absorb even more new useful information, that’s my goal. 
+Worked as a system administrator/network engineer in an Internet company. Assisted in the design of the website *adrenalin72.pro* for a small company in 2019, after which the company got new clients. I like to follow information technologies, learn something new for myself and especially like to apply the acquired knowledge in practice. Learning new things and absorbing even more new useful information is my goal. 
 
 ***
 
